@@ -4,7 +4,7 @@ A Chrome extension that enforces focus during Pomodoro sessions
 by locking your browser to the current tab.
 
 ## Install
-[Available on the Chrome Web Store](https://chrome.google.com/webstore/detail/pomodoro-tab) ← update with your live link once approved
+[Available on the Chrome Web Store](https://chromewebstore.google.com/detail/pomodoro-tab/phcbcpekfdojplfflihipaohonpeloil)
 
 ## Features
 - 25-minute focus sessions with 5-minute breaks
